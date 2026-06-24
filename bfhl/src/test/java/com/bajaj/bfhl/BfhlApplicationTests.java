@@ -20,7 +20,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Arrays;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class BfhlServiceTest {
+public class BfhlApplicationTests {
 
     private final BfhlServiceImpl service = new BfhlServiceImpl();
 
